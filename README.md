@@ -3,9 +3,13 @@
 A list of stuff I've found useful over the course of me teaching myself All Of The Security Things.
 
 i. [C Code Review](#c-code-review)
+
 ii. [Cryptography](#cryptography)
+
 iii. [CTFs](#ctfs)
+
 iv. [Web Security](#web-security)
+
 
 
 
@@ -48,7 +52,7 @@ iv. [Web Security](#web-security)
 
 [Web Application Hacker's Handbook](https://www.amazon.ca/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470)
 
-[OWASP XSS Guide](https://www.owasp.org/index.php/Cross-site_Scripting_(XSS)
+[OWASP XSS Guide](https://www.owasp.org/index.php/Cross-site_Scripting_(XSS))
 
 [OWASP SQL Injection Guide](https://www.owasp.org/index.php/SQL_Injection)
 
