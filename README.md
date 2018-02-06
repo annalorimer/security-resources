@@ -65,6 +65,7 @@ viii. [Web Security](#web-security)
 ## Podcasts
 
 [Security Now](https://www.grc.com/securitynow.htm)
+ - Good technical content but lacks an intersectional approach to societal implications imo
 
 ### Notable Episodes 
 
@@ -77,6 +78,8 @@ viii. [Web Security](#web-security)
 [How To Become A Hacker](http://www.catb.org/esr/faqs/hacker-howto.html)
 
 [The Tangled Web: A Guide To Securing Modern Web Applications](https://nostarch.com/tangledweb)
+
+[Queer Privacy by Sarah Jamie Lewis](https://leanpub.com/queerprivacy)
 
 ## Tools
 
