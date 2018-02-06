@@ -13,6 +13,8 @@ iv. [CTFs](#ctfs)
 
 v. [Podcasts](#podcasts)
  - [Notable Episodes](#notable-episodes)
+ 
+vi. [Things I've Heard Good Things About But Haven't Read/Listened To/etc](#things-ive-heard-good-things-about-but-havent-read-listened-to-etc)
 
 vi. [Web Security](#web-security)
 
@@ -67,6 +69,10 @@ vi. [Web Security](#web-security)
 [Security Now #65: Why is Security So Difficult?](https://www.grc.com/sn/past/2006.htm)
 
 [Security Now #311: Anatomy of a Security Mistake](https://www.grc.com/sn/past/2011.htm)
+
+# Things I've Heard Good Things About But Haven't Read/Listened To/etc
+
+[How To Become A Hacker](http://www.catb.org/esr/faqs/hacker-howto.html)
 
 ## Web Security 
 
