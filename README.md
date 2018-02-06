@@ -20,6 +20,8 @@ v. [Web Security](#web-security)
 
 [So, you want to work in Security? By Parisa Tabriz](https://medium.freecodecamp.org/so-you-want-to-work-in-security-bc6c10157d23)
 
+[So you want to work in security (but are too lazy to read Parisa's excellent essay) by lcamtuf](https://lcamtuf.blogspot.co.uk/2016/08/so-you-want-to-work-in-security-but-are.html)
+
 [So you want to work in security? (and for some reason ended up here rather than reading other people’s posts on the topic) by Ivan Fratric](https://ifsec.blogspot.co.uk/2018/02/so-you-want-to-work-in-security-and-for.html)
 
 ## C Code Review
