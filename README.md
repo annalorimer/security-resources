@@ -86,6 +86,8 @@ viii. [Web Security](#web-security)
 [Burp Suite](https://portswigger.net/burp)
  - The free community edition is fine
  
+[John The Ripper](http://www.openwall.com/john/)
+
 [Wireshark](https://www.wireshark.org/)
 
 ## Web Security 
