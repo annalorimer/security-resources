@@ -14,7 +14,7 @@ iv. [CTFs](#ctfs)
 v. [Podcasts](#podcasts)
  - [Notable Episodes](#notable-episodes)
  
-vi. [Things I've Heard Good Things About But Haven't Read/Listened To/etc](#things-ive-heard-good-things-about-but-havent-read-listened-to-etc)
+vi. [Things I've Heard Good Things About But Haven't Read/Listened To/etc](#things-ive-heard-good-things-about-but-havent-readlistened-toetc)
 
 vi. [Web Security](#web-security)
 
