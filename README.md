@@ -16,7 +16,9 @@ v. [Podcasts](#podcasts)
  
 vi. [Things I've Heard Good Things About But Haven't Read/Listened To/etc](#things-ive-heard-good-things-about-but-havent-readlistened-toetc)
 
-vi. [Web Security](#web-security)
+vi. [Tools](#tools)
+
+viii. [Web Security](#web-security)
 
 
 ## Blog Posts
@@ -75,6 +77,13 @@ vi. [Web Security](#web-security)
 [How To Become A Hacker](http://www.catb.org/esr/faqs/hacker-howto.html)
 
 [The Tangled Web: A Guide To Securing Modern Web Applications](https://nostarch.com/tangledweb)
+
+## Tools
+
+[Burp Suite](https://portswigger.net/burp)
+ - The free community edition is fine
+ 
+[Wireshark](https://www.wireshark.org/)
 
 ## Web Security 
 
