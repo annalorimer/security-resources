@@ -64,7 +64,9 @@ vi. [Web Security](#web-security)
 
 ### Notable Episodes 
 
-[Security Now: Why is Security So Difficult?](https://www.grc.com/sn/past/2006.htm)
+[Security Now #65: Why is Security So Difficult?](https://www.grc.com/sn/past/2006.htm)
+
+[Security Now #311: Anatomy of a Security Mistake](https://www.grc.com/sn/past/2011.htm)
 
 ## Web Security 
 
