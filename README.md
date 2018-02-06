@@ -72,7 +72,7 @@ viii. [Web Security](#web-security)
 
 [Security Now #311: Anatomy of a Security Mistake](https://www.grc.com/sn/past/2011.htm)
 
-# Things I've Heard Good Things About But Haven't Read/Listened To/etc
+## Things I've Heard Good Things About But Haven't Read/Listened To/etc
 
 [How To Become A Hacker](http://www.catb.org/esr/faqs/hacker-howto.html)
 
