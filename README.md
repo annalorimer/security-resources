@@ -2,16 +2,25 @@
 
 A list of stuff I've found useful over the course of me teaching myself All Of The Security Things.
 
-i. [C Code Review](#c-code-review)
+i. [Blog Posts](#blog-posts)
+ - [Getting Into Security](#getting-into-security)
 
-ii. [Cryptography](#cryptography)
+ii. [C Code Review](#c-code-review)
 
-iii. [CTFs](#ctfs)
+iii. [Cryptography](#cryptography)
 
-iv. [Web Security](#web-security)
+iv. [CTFs](#ctfs)
+
+v. [Web Security](#web-security)
 
 
+## Blog Posts
 
+### Getting Into Security
+
+[So, you want to work in Security? By Parisa Tabriz](https://medium.freecodecamp.org/so-you-want-to-work-in-security-bc6c10157d23)
+
+[So you want to work in security? (and for some reason ended up here rather than reading other people’s posts on the topic) by Ivan Fratric](https://ifsec.blogspot.co.uk/2018/02/so-you-want-to-work-in-security-and-for.html)
 
 ## C Code Review
 
