@@ -11,7 +11,10 @@ iii. [Cryptography](#cryptography)
 
 iv. [CTFs](#ctfs)
 
-v. [Web Security](#web-security)
+v. [Podcasts](#podcasts)
+ - [Notable Episodes](#notable-episodes)
+
+vi. [Web Security](#web-security)
 
 
 ## Blog Posts
@@ -54,6 +57,14 @@ v. [Web Security](#web-security)
 [Hack This Site]()
 
 [Google Gruyere]()
+
+## Podcasts
+
+[Security Now](https://www.grc.com/securitynow.htm)
+
+### Notable Episodes 
+
+[Security Now: Why is Security So Difficult?](https://www.grc.com/sn/past/2006.htm)
 
 ## Web Security 
 
