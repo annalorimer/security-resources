@@ -74,6 +74,8 @@ vi. [Web Security](#web-security)
 
 [How To Become A Hacker](http://www.catb.org/esr/faqs/hacker-howto.html)
 
+[The Tangled Web: A Guide To Securing Modern Web Applications](https://nostarch.com/tangledweb)
+
 ## Web Security 
 
 [Google Gruyere](https://google-gruyere.appspot.com/)
