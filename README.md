@@ -47,6 +47,8 @@ viii. [Web Security](#web-security)
 
 ## Cryptography 
 
+[A Stick Figure Guide To The Advanced Encryption Standard (AES)](http://www.moserware.com/2009/09/stick-figure-guide-to-advanced.html)
+
 [Coursera Crypto I (taught by Dan Boneh)](https://www.coursera.org/learn/crypto)
 
 [Cryptopals](https://cryptopals.com/)
