@@ -2,24 +2,38 @@
 
 A list of stuff I've found useful over the course of me teaching myself All Of The Security Things.
 
-i. [Blog Posts](#blog-posts)
+i. [Android](#android)
+ - [Vulnerable Android Apps](#vulnerable-android-apps)
+ 
+ii. [Blog Posts](#blog-posts)
  - [Getting Into Security](#getting-into-security)
 
-ii. [C Code Review](#c-code-review)
+iii. [C Code Review](#c-code-review)
 
-iii. [Cryptography](#cryptography)
+iv. [Cryptography](#cryptography)
 
-iv. [CTFs](#ctfs)
+v. [CTFs](#ctfs)
 
-v. [Podcasts](#podcasts)
+vi. [Podcasts](#podcasts)
  - [Notable Episodes](#notable-episodes)
  
-vi. [Things I've Heard Good Things About But Haven't Read/Listened To/etc](#things-ive-heard-good-things-about-but-havent-readlistened-toetc)
+vii. [Things I've Heard Good Things About But Haven't Read/Listened To/etc](#things-ive-heard-good-things-about-but-havent-readlistened-toetc)
 
-vi. [Tools](#tools)
+viii. [Tools](#tools)
 
-viii. [Web Security](#web-security)
+ix. [Web Security](#web-security)
 
+## Android
+
+[Android Hacker's Handbook](https://www.amazon.co.uk/Android-Hackers-Handbook-Joshua-Drake/dp/111860864X)
+ - A little bit dated but the fundamentals are good
+ 
+[Tutorialspoint Android Penetration Testing](https://www.tutorialspoint.com/android_penetration_testing/index.asp)
+ - Covers basic architecture, security architecture, and walks through DIVA
+ 
+### Vulnerable Android Apps
+
+[DIVA](https://github.com/payatu/diva-android)
 
 ## Blog Posts
 
