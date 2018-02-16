@@ -20,6 +20,7 @@ vi. [Podcasts](#podcasts)
 vii. [Things I've Heard Good Things About But Haven't Read/Listened To/etc](#things-ive-heard-good-things-about-but-havent-readlistened-toetc)
 
 viii. [Tools](#tools)
+ - [Command Line](#command-line)
 
 ix. [Web Security](#web-security)
 
@@ -105,6 +106,10 @@ ix. [Web Security](#web-security)
 [John The Ripper](http://www.openwall.com/john/)
 
 [Wireshark](https://www.wireshark.org/)
+
+### Command Line
+
+[A Quick and Practical Reference for tcpdump](http://bencane.com/2014/10/13/quick-and-practical-reference-for-tcpdump/)
 
 ## Web Security 
 
