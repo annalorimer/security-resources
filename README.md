@@ -35,7 +35,7 @@ ix. [Web Security](#web-security)
 ### Vulnerable Android Apps
 
 [DIVA](https://github.com/payatu/diva-android)
-
+ - [Walkthrough](http://resources.infosecinstitute.com/cracking-damn-insecure-and-vulnerable-apps-diva-part-1/)
 ## Blog Posts
 
 ### Getting Into Security
