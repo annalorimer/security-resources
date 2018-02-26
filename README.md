@@ -10,19 +10,21 @@ ii. [Blog Posts](#blog-posts)
 
 iii. [C Code Review](#c-code-review)
 
-iv. [Cryptography](#cryptography)
+iv. [Course Notes](#course-notes)
 
-v. [CTFs](#ctfs)
+v. [Cryptography](#cryptography)
 
-vi. [Podcasts](#podcasts)
+vi. [CTFs](#ctfs)
+
+vii. [Podcasts](#podcasts)
  - [Notable Episodes](#notable-episodes)
  
-vii. [Things I've Heard Good Things About But Haven't Read/Listened To/etc](#things-ive-heard-good-things-about-but-havent-readlistened-toetc)
+viii. [Things I've Heard Good Things About But Haven't Read/Listened To/etc](#things-ive-heard-good-things-about-but-havent-readlistened-toetc)
 
-viii. [Tools](#tools)
+ix. [Tools](#tools)
  - [Command Line](#command-line)
 
-ix. [Web Security](#web-security)
+x. [Web Security](#web-security)
 
 ## Android
 
@@ -59,6 +61,9 @@ ix. [Web Security](#web-security)
 
 [OWASP Buffer Overruns and Overflows Guide](https://www.owasp.org/index.php/Reviewing_Code_for_Buffer_Overruns_and_Overflows)
 
+## Course Notes
+
+[UWaterloo CrySP's CS458](https://crysp.uwaterloo.ca/courses/cs458/W18-material/home.shtml)
 
 ## Cryptography 
 
