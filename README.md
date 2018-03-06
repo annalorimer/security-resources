@@ -115,6 +115,10 @@ xi. [Web Security](#web-security)
 [Burp Suite](https://portswigger.net/burp)
  - The free community edition is fine
  
+[hexdump](https://en.wikipedia.org/wiki/Hex_dump)
+
+[Hex Fiend](http://ridiculousfish.com/hexfiend/)
+ 
 [John The Ripper](http://www.openwall.com/john/)
 
 [Wireshark](https://www.wireshark.org/)
