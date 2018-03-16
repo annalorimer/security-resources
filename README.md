@@ -1,6 +1,8 @@
 # Security Resources 
 
-A list of stuff I've found useful over the course of me teaching myself All Of The Security Things.
+A list of stuff I've found useful over the course of me teaching myself All Of The Security Things. Constantly a work in progress.
+
+0. [Where to start](#where-to-start)
 
 i. [Android](#android)
  - [Vulnerable Android Apps](#vulnerable-android-apps)
@@ -27,6 +29,18 @@ x. [Tools](#tools)
  - [Command Line](#command-line)
 
 xi. [Web Security](#web-security)
+
+## Where To Start
+
+Not gonna lie, I get this question a lot and I never have a good answer for it. So here's some general tips: 
+
+* Start with what you're interested in. If you heard about an exploit, tool, concept, etc what peaked your interest, dive into that first.
+  * Here are some places to start in case you're stuck: 
+    - [Common Web Exploits](https://stackoverflow.com/questions/23102/what-common-web-exploits-should-i-know-about)
+    - [Wikipedia page on Exploits](https://en.wikipedia.org/wiki/Category:Computer_security_exploits)
+    - [Kali Linux](https://www.kali.org/)
+* If you are reading a blog post, wiki page, book, paper, etc. and you come across something you've never heard of or don't understand, don't continue reading until you understand that thing. (Obviously, this won't work for everyone because everyone learns differently. I have generally found that this works for me.)
+* Be prepared to not understand pretty much everything.
 
 ## Android
 
