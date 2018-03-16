@@ -44,7 +44,7 @@ Not gonna lie, I get this question a lot and I never have a good answer for it. 
   * Here are some places to start in case you're stuck: 
     - [Common Web Exploits](https://stackoverflow.com/questions/23102/what-common-web-exploits-should-i-know-about)
     - [Wikipedia page on Exploits](https://en.wikipedia.org/wiki/Category:Computer_security_exploits)
-    - [Kali Linux](https://www.kali.org/)
+    - [Security Planner](https://securityplanner.org/#/)
 
 <br>
 
@@ -64,6 +64,7 @@ Not gonna lie, I get this question a lot and I never have a good answer for it. 
 <br>
 
 * Get yourself a bookmarking tool such as [Pocket](https://getpocket.com/). There will be lots of things you'll want to save for later and you'll need a way to organize them. (Don't be like me and use Twitter likes as your bookmarking tool)
+  * This is actually a good opportunity to check out [Security Planner](https://securityplanner.org/#/) to learn more about how to manage your online privacy!
 
 ## Android
 
