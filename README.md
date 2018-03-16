@@ -26,13 +26,15 @@ ix. [Podcasts](#podcasts)
  - [Notable Episodes](#notable-episodes)
  
 x. [Reverse Engineering](#reverse-engineering)
- 
-xi. [Things I've Heard Good Things About But Haven't Read/Listened To/etc](#things-ive-heard-good-things-about-but-havent-readlistened-toetc)
 
-xii. [Tools](#tools)
+xi. [Security Culture](#security-culture)
+ 
+xii. [Things I've Heard Good Things About But Haven't Read/Listened To/etc](#things-ive-heard-good-things-about-but-havent-readlistened-toetc)
+
+xiii. [Tools](#tools)
  - [Command Line](#command-line)
 
-xiii. [Web Security](#web-security)
+xiv. [Web Security](#web-security)
 
 ## Where To Start
 
@@ -127,18 +129,22 @@ Not gonna lie, I get this question a lot and I never have a good answer for it. 
 
 [Security Now](https://www.grc.com/securitynow.htm)
  - Good technical content but lacks an intersectional approach to societal implications imo
- 
-## Reverse Engineering
-
-[Introduction to Firmware Reversing](https://www.youtube.com/watch?v=GIU4yJn2-2A&t=1s)
-
-[Reverse Engineering Challenges](https://challenges.re/)
 
 ### Notable Episodes 
 
 [Security Now #65: Why is Security So Difficult?](https://www.grc.com/sn/past/2006.htm)
 
 [Security Now #311: Anatomy of a Security Mistake](https://www.grc.com/sn/past/2011.htm)
+
+## Reverse Engineering
+
+[Introduction to Firmware Reversing](https://www.youtube.com/watch?v=GIU4yJn2-2A&t=1s)
+
+[Reverse Engineering Challenges](https://challenges.re/)
+
+## Security Culture
+
+[Hackers (film)[https://en.wikipedia.org/wiki/Hackers_(film)]
 
 ## Things I've Heard Good Things About But Haven't Read/Listened To/etc
 
