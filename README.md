@@ -2,7 +2,7 @@
 
 A list of stuff I've found useful over the course of me teaching myself All Of The Security Things. Constantly a work in progress.
 
-0. [Where to start](#where-to-start)
+[Not sure where to start?](#where-to-start)
 
 i. [Android](#android)
  - [Vulnerable Android Apps](#vulnerable-android-apps)
@@ -25,12 +25,14 @@ viii. [Law and Social Justice](#law-and-social-justice)
 ix. [Podcasts](#podcasts)
  - [Notable Episodes](#notable-episodes)
  
-x. [Things I've Heard Good Things About But Haven't Read/Listened To/etc](#things-ive-heard-good-things-about-but-havent-readlistened-toetc)
+x. [Reverse Engineering](#reverse-engineering)
+ 
+xi. [Things I've Heard Good Things About But Haven't Read/Listened To/etc](#things-ive-heard-good-things-about-but-havent-readlistened-toetc)
 
-xi. [Tools](#tools)
+xii. [Tools](#tools)
  - [Command Line](#command-line)
 
-xii. [Web Security](#web-security)
+xiii. [Web Security](#web-security)
 
 ## Where To Start
 
@@ -125,6 +127,12 @@ Not gonna lie, I get this question a lot and I never have a good answer for it. 
 
 [Security Now](https://www.grc.com/securitynow.htm)
  - Good technical content but lacks an intersectional approach to societal implications imo
+ 
+## Reverse Engineering
+
+[Introduction to Firmware Reversing](https://www.youtube.com/watch?v=GIU4yJn2-2A&t=1s)
+
+[Reverse Engineering Challenges](https://challenges.re/)
 
 ### Notable Episodes 
 
