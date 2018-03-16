@@ -45,13 +45,20 @@ Not gonna lie, I get this question a lot and I never have a good answer for it. 
     - [Common Web Exploits](https://stackoverflow.com/questions/23102/what-common-web-exploits-should-i-know-about)
     - [Wikipedia page on Exploits](https://en.wikipedia.org/wiki/Category:Computer_security_exploits)
     - [Kali Linux](https://www.kali.org/)
+
 <br>
+
 * If you are reading a blog post, wiki page, book, paper, etc. and you come across something you've never heard of or don't understand, don't continue reading until you understand that thing. (Obviously, this won't work for everyone because everyone learns differently. One of my first year uni prof's gave me this advice and I've found it to be pretty effective.)
+
 <br>
+
 * Be prepared to not understand pretty much everything.
 <br>
+
 * Have a decent understanding of programming. If you've never done any sort of programming before, check out [Code Academy](https://www.codecademy.com/) — the Python track is a good place to start.
+
 <br>
+
 * Don't just read about it! Reading about security is all well and good, but coding exploits will solidify your understanding. Check out the [CTFs](#ctfs) section to get started.
 
 ## Android
