@@ -20,15 +20,17 @@ vi. [Cryptography](#cryptography)
 
 vii. [CTFs](#ctfs)
 
-viii. [Podcasts](#podcasts)
+viii. [Law and Social Justice](#law-and-social-justice)
+
+ix. [Podcasts](#podcasts)
  - [Notable Episodes](#notable-episodes)
  
-ix. [Things I've Heard Good Things About But Haven't Read/Listened To/etc](#things-ive-heard-good-things-about-but-havent-readlistened-toetc)
+x. [Things I've Heard Good Things About But Haven't Read/Listened To/etc](#things-ive-heard-good-things-about-but-havent-readlistened-toetc)
 
-x. [Tools](#tools)
+xi. [Tools](#tools)
  - [Command Line](#command-line)
 
-xi. [Web Security](#web-security)
+xii. [Web Security](#web-security)
 
 ## Where To Start
 
@@ -107,6 +109,17 @@ Not gonna lie, I get this question a lot and I never have a good answer for it. 
 [Hack This Site]()
 
 [Google Gruyere]()
+
+## Law and Social Justice
+
+[The Black Community Needs Encryption](https://motherboard.vice.com/en_us/article/3danqk/the-black-community-needs-encryption) by Adrianne Jeffries for Motherboard
+
+[Encryption is a Human Rights Issue](https://www.eff.org/deeplinks/2016/03/amnesty-international-encryption-human-rights-issue) from the EFF
+
+
+### CrySP Speaker Series on Privacy
+
+[Lex Gill: Rearranging Power Through Law and Code: Deciphering the Canadian Encryption Debate](https://www.youtube.com/watch?v=atAx24J1pQE&t=255s)
 
 ## Podcasts
 
