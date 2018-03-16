@@ -144,7 +144,7 @@ Not gonna lie, I get this question a lot and I never have a good answer for it. 
 
 ## Security Culture
 
-[Hackers (film)[https://en.wikipedia.org/wiki/Hackers_(film)]
+[Hackers (film)](https://en.wikipedia.org/wiki/Hackers_(film))
 
 ## Things I've Heard Good Things About But Haven't Read/Listened To/etc
 
