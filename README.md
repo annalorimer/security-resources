@@ -61,6 +61,10 @@ Not gonna lie, I get this question a lot and I never have a good answer for it. 
 
 * Don't just read about it! Reading about security is all well and good, but coding exploits will solidify your understanding. Check out the [CTFs](#ctfs) section to get started.
 
+<br>
+
+* Get yourself a bookmarking tool such as [Pocket](https://getpocket.com/). There will be lots of things you'll want to save for later and you'll need a way to organize them. (Don't be like me and use Twitter likes as your bookmarking tool)
+
 ## Android
 
 [Android Hacker's Handbook](https://www.amazon.co.uk/Android-Hackers-Handbook-Joshua-Drake/dp/111860864X)
