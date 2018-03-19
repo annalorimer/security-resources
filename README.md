@@ -159,6 +159,9 @@ Not gonna lie, I get this question a lot and I never have a good answer for it. 
 
 [Reverse Engineering Challenges](https://challenges.re/)
 
+[2017 SIT RE Presentation by TobalJackson](https://github.com/TobalJackson/2017-SIT-RE-Presentation)
+* Good intro to radare2 (with exercises and a video!)
+
 ## Security Culture
 
 [Hackers (film)](https://en.wikipedia.org/wiki/Hackers_(film))
