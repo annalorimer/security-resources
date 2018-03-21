@@ -93,6 +93,8 @@ Not gonna lie, I get this question a lot and I never have a good answer for it. 
 
 [So you want to work in security? (and for some reason ended up here rather than reading other people’s posts on the topic) by Ivan Fratric](https://ifsec.blogspot.co.uk/2018/02/so-you-want-to-work-in-security-and-for.html)
 
+[So you want to be a security engineer? by Niru Ragupathy](https://medium.com/@niruragu/so-you-want-to-be-a-security-engineer-d8775976afb7)
+
 ## C Code Review
 
 [CERN Computer Security: Common vulnerabilities guide for C programmers](https://security.web.cern.ch/security/recommendations/en/codetools/c.shtml)
