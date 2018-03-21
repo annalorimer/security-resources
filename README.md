@@ -178,7 +178,7 @@ Not gonna lie, I get this question a lot and I never have a good answer for it. 
 
 ## Tools
 
-[Burp Suite](https://portswigger.net/burp)
+🌟[Burp Suite](https://portswigger.net/burp)
  - The free community edition is fine
  
 [hexdump](https://en.wikipedia.org/wiki/Hex_dump)
