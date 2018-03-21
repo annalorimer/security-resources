@@ -87,13 +87,13 @@ Not gonna lie, I get this question a lot and I never have a good answer for it. 
 
 ### Getting Into Security
 
-🌟 [So, you want to work in Security? By Parisa Tabriz](https://medium.freecodecamp.org/so-you-want-to-work-in-security-bc6c10157d23)
+[So, you want to work in Security? By Parisa Tabriz](https://medium.freecodecamp.org/so-you-want-to-work-in-security-bc6c10157d23) 🌟
 
 [So you want to work in security (but are too lazy to read Parisa's excellent essay) by lcamtuf](https://lcamtuf.blogspot.co.uk/2016/08/so-you-want-to-work-in-security-but-are.html)
 
 [So you want to work in security? (and for some reason ended up here rather than reading other people’s posts on the topic) by Ivan Fratric](https://ifsec.blogspot.co.uk/2018/02/so-you-want-to-work-in-security-and-for.html)
 
-🌟[So you want to be a security engineer? by Niru Ragupathy](https://medium.com/@niruragu/so-you-want-to-be-a-security-engineer-d8775976afb7)
+[So you want to be a security engineer? by Niru Ragupathy](https://medium.com/@niruragu/so-you-want-to-be-a-security-engineer-d8775976afb7) 🌟
 
 ## C Code Review
 
@@ -118,7 +118,7 @@ Not gonna lie, I get this question a lot and I never have a good answer for it. 
 
 [Classical Cryptography](http://practicalcryptography.com/ciphers/classical-era/)
 
-🌟[Coursera Crypto I (taught by Dan Boneh)](https://www.coursera.org/learn/crypto)
+[Coursera Crypto I (taught by Dan Boneh)](https://www.coursera.org/learn/crypto) 🌟
 
 [Cryptopals](https://cryptopals.com/)
 
@@ -135,14 +135,14 @@ Not gonna lie, I get this question a lot and I never have a good answer for it. 
 
 ## Law and Social Justice
 
-🌟[The Black Community Needs Encryption](https://motherboard.vice.com/en_us/article/3danqk/the-black-community-needs-encryption) by Adrianne Jeffries for Motherboard
+[The Black Community Needs Encryption](https://motherboard.vice.com/en_us/article/3danqk/the-black-community-needs-encryption) by Adrianne Jeffries for Motherboard 🌟
 
 [Encryption is a Human Rights Issue](https://www.eff.org/deeplinks/2016/03/amnesty-international-encryption-human-rights-issue) from the EFF
 
 
 ### CrySP Speaker Series on Privacy
 
-🌟[Lex Gill: Rearranging Power Through Law and Code: Deciphering the Canadian Encryption Debate](https://www.youtube.com/watch?v=atAx24J1pQE&t=255s)
+[Lex Gill: Rearranging Power Through Law and Code: Deciphering the Canadian Encryption Debate](https://www.youtube.com/watch?v=atAx24J1pQE&t=255s) 🌟
 
 ## Podcasts
 
@@ -178,7 +178,7 @@ Not gonna lie, I get this question a lot and I never have a good answer for it. 
 
 ## Tools
 
-🌟[Burp Suite](https://portswigger.net/burp)
+[Burp Suite](https://portswigger.net/burp) 🌟
  - The free community edition is fine
  
 [hexdump](https://en.wikipedia.org/wiki/Hex_dump)
@@ -189,7 +189,7 @@ Not gonna lie, I get this question a lot and I never have a good answer for it. 
 
 [Wireshark](https://www.wireshark.org/)
 
-🌟[radare2](https://github.com/radare/radare2)
+[radare2](https://github.com/radare/radare2) 🌟
 
 ### Command Line
 
