@@ -14,29 +14,31 @@ iii. [Blog Posts](#blog-posts)
 
 iv. [C Code Review](#c-code-review)
 
-v. [Course Notes](#course-notes)
+v. [Conferences](#conferences)
 
-vi. [Cryptography](#cryptography)
+vi. [Course Notes](#course-notes)
 
-vii. [CTFs](#ctfs)
+vii. [Cryptography](#cryptography)
 
-viii. [Law and Social Justice](#law-and-social-justice)
+viii. [CTFs](#ctfs)
 
-ix. [Networking](#networking)
+ix. [Law and Social Justice](#law-and-social-justice)
 
-x. [Podcasts](#podcasts)
+x. [Networking](#networking)
+
+xi. [Podcasts](#podcasts)
  - [Notable Episodes](#notable-episodes)
  
-xi. [Reverse Engineering](#reverse-engineering)
+xii. [Reverse Engineering](#reverse-engineering)
 
-xi. [Security Culture](#security-culture)
+xiii. [Security Culture](#security-culture)
  
-xiii. [Things I've Heard Good Things About But Haven't Read/Listened To/etc](#things-ive-heard-good-things-about-but-havent-readlistened-toetc)
+xiv. [Things I've Heard Good Things About But Haven't Read/Listened To/etc](#things-ive-heard-good-things-about-but-havent-readlistened-toetc)
 
-xiv. [Tools](#tools)
+xv. [Tools](#tools)
  - [Command Line](#command-line)
 
-xv. [Web Security](#web-security)
+xvi. [Web Security](#web-security)
 
 ## Where To Start
 
@@ -109,6 +111,10 @@ Not gonna lie, I get this question a lot and I never have a good answer for it. 
 )
 
 [OWASP Buffer Overruns and Overflows Guide](https://www.owasp.org/index.php/Reviewing_Code_for_Buffer_Overruns_and_Overflows)
+
+## Conferences 
+
+[OurSA 2018](http://oursa.org/stream) 🌟
 
 ## Course Notes
 
