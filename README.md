@@ -22,19 +22,21 @@ vii. [CTFs](#ctfs)
 
 viii. [Law and Social Justice](#law-and-social-justice)
 
-ix. [Podcasts](#podcasts)
+ix. [Networking](#networking)
+
+x. [Podcasts](#podcasts)
  - [Notable Episodes](#notable-episodes)
  
-x. [Reverse Engineering](#reverse-engineering)
+xi. [Reverse Engineering](#reverse-engineering)
 
 xi. [Security Culture](#security-culture)
  
-xii. [Things I've Heard Good Things About But Haven't Read/Listened To/etc](#things-ive-heard-good-things-about-but-havent-readlistened-toetc)
+xiii. [Things I've Heard Good Things About But Haven't Read/Listened To/etc](#things-ive-heard-good-things-about-but-havent-readlistened-toetc)
 
-xiii. [Tools](#tools)
+xiv. [Tools](#tools)
  - [Command Line](#command-line)
 
-xiv. [Web Security](#web-security)
+xv. [Web Security](#web-security)
 
 ## Where To Start
 
@@ -143,6 +145,10 @@ Not gonna lie, I get this question a lot and I never have a good answer for it. 
 ### CrySP Speaker Series on Privacy
 
 [Lex Gill: Rearranging Power Through Law and Code: Deciphering the Canadian Encryption Debate](https://www.youtube.com/watch?v=atAx24J1pQE&t=255s) 🌟
+
+## Networking 
+
+[CS456 (UWaterloo) Lecture Slides (2006)](https://cs.uwaterloo.ca/~iang/cs456/F06-lectures/)
 
 ## Podcasts
 
