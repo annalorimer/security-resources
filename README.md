@@ -1,5 +1,7 @@
 # Security Resources 
 
+🚨This Readme isn't being updated anymore. Check out the Wiki tab for the most up to date lists 🚨
+
 A list of stuff I've found useful over the course of me teaching myself All Of The Security Things. Constantly a work in progress. Things with 🌟are my ride-or-die faves.
 
 [Not sure where to start?](#where-to-start)
